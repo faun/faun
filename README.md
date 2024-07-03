@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🔭 I’m focused on creating impactful software using Golang, Ruby, and JavaScript/TypeScript.
-- 🌱 I’m keen on learning more about advanced development tools, cloud solutions and effective team dynamics.
-- 👯 I’m looking to collaborate with teams that value autonomy and trust.
+- 🔭 I’m focused on creating impactful software using Golang, Ruby, and TypeScript/JavaScript.
+- 🌱 I’m keen on learning more about advanced development tools, cloud-native infrastructure and effective team dynamics.
+- 👯 I’m looking to collaborate with teams that value autonomy and trust and have a growth mindset.
 - 💬 Ask me about software development, remote work, and achieving work-life balance.
 - 📫 How to reach me: [Twitter](https://twitter.com/faunzy) or [LinkedIn](https://linkedin.com/in/faunwinter)
 
